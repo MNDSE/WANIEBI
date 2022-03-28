@@ -1,4 +1,4 @@
-# WANIEBI is a simple website that allows to count things from O to infinity. I mainly built it to test my understanding of JavasCript and the DOM.
+# WANIEBI is a simple website that allows to count things from O to infinity. I mainly built it to test my understanding of JavaScript and the DOM.
 
 I used HTML/CSS and Javascript to build it.
 
