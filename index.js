@@ -7,7 +7,7 @@ element.textContent = window.prompt("PLEASE GIVE A TITLE TO WHAT YOU ARE COUNTIN
 document.body.append(element);
 
 
-// Creating the wallent
+// Creating the counter board
 let myTotal = document.getElementById("myTotal");
 let meDepot = document.getElementById("myH2");
 
