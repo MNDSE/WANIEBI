@@ -24,5 +24,6 @@ function ajout(){
 function enregistrer(){
     let newCount = count + "-";
     myTotal.innerText += newCount;
-    console.log(count)
+    meDepot.textContent = 0;
+    count = 0
 }
